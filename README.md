@@ -11,7 +11,7 @@
 ----------------------
 
 # 목차:
-## 1장 풀스택 엔지니어 거듭나기
+## [1장 풀스택 엔지니어 거듭나기](https://github.com/unclebae/letsBecomeFullStackEngineer/tree/ch01)
 
 1.1 풀스택엔지니어가 알아야할 기술
 
