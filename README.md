@@ -169,9 +169,4 @@ Angular.js 는 복잡성, 확정성의 문제를 해결하여 최근에는 Angul
 
 
 
-
-
-
-1.2 Wrap Up
-
 [목록으로](https://github.com/unclebae/letsBecomeFullStackEngineer)
